@@ -1,6 +1,6 @@
 ### Hi there 👋
-### Just starting out in the development scenes 
-### Hoping to leave an impact somewhere
+### Just starting out in the programming scenes 
+### Hoping to leave an impact somewhere and learn something ne
 
 <!--
 **KhairulFahmi1412/KhairulFahmi1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
